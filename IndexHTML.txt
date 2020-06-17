@@ -5,7 +5,7 @@
 <head>
 
     <script src="https://d3js.org/d3.v4.min.js"></script>
-    <script src="D3SankeyLoop.js"></script>
+    <script src="https://raw.githubusercontent.com/jonberneck/test.github.io/master/D3SankeyLoop.js"></script>
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
     <script src="Data.js"></script>
 
