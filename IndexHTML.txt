@@ -154,7 +154,7 @@
 
     link.append("title")
       .text(function (d) {
-        return d.source.name + " → " + d.target.name + "\n Index: " + (d.index);
+        return d.source.name + " → " + d.target.name + "\n Wert: " + (d.value) + " " + (d.einheit);
       });
 
 
