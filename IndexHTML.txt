@@ -173,17 +173,6 @@
     let maxOffset = 10;
     let percentageOffset = 1;
 
-    var animateDash = setInterval(updateDash, duration);
-
-    function updateDash() {
-
-      arrowsG.selectAll("path")
-      .style("stroke-dashoffset", percentageOffset * maxOffset)
-
-      percentageOffset = percentageOffset == 0 ? 1 : percentageOffset - 0.01
-
-    }
-
     function highlightNodes(node, name) {
 
       let opacity = 0.3
