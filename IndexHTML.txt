@@ -39,7 +39,7 @@
     <div id="chart"></div>
 
     <script>
-    var margin = { top: 1000, right: 562, bottom: 1000, left: 562 };
+    var margin = { top: 500, right: 250, bottom: 500, left: 250 };
     var width = 1000;
     var height = 562;
 
