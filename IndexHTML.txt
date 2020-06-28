@@ -40,8 +40,8 @@
 
     <script>
     var margin = { top: 450, right: 600, bottom: 450, left: 600 };
-    var width = 1800;
-    var height = 900;
+    var width = 1000;
+    var height = 562;
 
     let data = data1;
 
